@@ -6,4 +6,4 @@
   - h1要素のテキストの色にはグラデーションが設定されていて、左端から右端に向かって「blue」から「red」へと変化する
 
 構図  
-![3-1 gradient](https://github.com/slerk3357/webGroup/assets/115073776/fa422a83-0ea8-4cf9-940e-f682f2f00bb9)
+![3-1 gradient](../images/3-1gradient.png)
