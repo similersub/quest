@@ -15,4 +15,4 @@
   - 赤の領域は「h2要素」「p要素」
   - 余白の指定より、h2要素、p要素それぞれに余白10pxが設定されている...
 
-![1-3section](https://github.com/slerk3357/webGroup/assets/115073776/b7e950bf-38a3-47b1-af38-1467b0e6798a)
+![1-3section](../images/1-3section.png)
