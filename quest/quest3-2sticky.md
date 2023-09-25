@@ -10,8 +10,8 @@
     （aside要素の下端はdiv要素の下端を超えて画面固定されず、それ以上は一緒にスクロールされる）
 
 構図  
-<img width="30%" alt="3-2sticky_1" src="https://github.com/slerk3357/webGroup/assets/115073776/136bdc88-d192-49eb-bf89-e5bc17988b3b">
-<img width="30%" alt="3-2sticky_2" src="https://github.com/slerk3357/webGroup/assets/115073776/3008dc44-f1b4-485d-ad9f-43663914b181">
-<img width="30%" alt="3-2sticky_3" src="https://github.com/slerk3357/webGroup/assets/115073776/88580086-9fcf-4cc3-aefa-b3a3995a20d7">
-<img width="30%" alt="3-2sticky_4" src="https://github.com/slerk3357/webGroup/assets/115073776/9915b44d-1fb1-4557-9167-d08d2696def7">
-<img width="30%" alt="3-2sticky_5" src="https://github.com/slerk3357/webGroup/assets/115073776/10dbbd2e-1924-4731-9465-d5b48f25b2ed">
+<img width="30%" alt="3-2sticky_1" src="../images/3-2sticky_1.png">
+<img width="30%" alt="3-2sticky_2" src="../images/3-2sticky_2.png">
+<img width="30%" alt="3-2sticky_3" src="../images/3-2sticky_3.png">
+<img width="30%" alt="3-2sticky_4" src="../images/3-2sticky_4.png">
+<img width="30%" alt="3-2sticky_5" src="../images/3-2sticky_5.png">
