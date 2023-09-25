@@ -9,4 +9,4 @@
   - 青の領域は「外部div要素」
   - 赤の領域は「内部div要素」
 
-![1-1center](https://github.com/slerk3357/webGroup/assets/115073776/e6620ee9-6f2b-4a61-b292-9b2c6fc89375)
+![1-1center](../images/1-1center.png)
