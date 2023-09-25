@@ -9,5 +9,5 @@
   - input要素は非表示となっていて画面上には映らない
 
 構図  
-![2-1menu_a](https://github.com/slerk3357/webGroup/assets/115073776/f2b6c619-1d9a-4c40-a004-eed89ef55278)
-![2-1menu_b](https://github.com/slerk3357/webGroup/assets/115073776/99a52f76-f561-411d-a0aa-0bc3ce4fe4d7)
+![2-1menu_a](../images/2-1menu_a.png)
+![2-1menu_b](../images/2-1menu_b.png)
