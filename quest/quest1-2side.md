@@ -12,4 +12,4 @@
   - 青の領域は「div要素」
   - ボタンそれぞれの外周に10pxの余白があるため、ボタンどうしの間は20pxの余白がある。
 
-![1-2side](https://github.com/slerk3357/webGroup/assets/115073776/72b1be59-943d-4de7-859e-45623f233d96)
+![1-2side](../images/1-2side.png)
